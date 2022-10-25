@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋
 
@@ -7,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👯 I am the author of [fishjoy](https://github.com/OOOOOORAN/OOOOOORAN)
+- 👯 I am the author of [OOOOOORAN](https://github.com/OOOOOORAN/OOOOOORAN)
 - 📝 Contact me: [Email](2422157324@qq.com) 
 
 
