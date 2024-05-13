@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I am the author of [OOOOOORAN](https://github.com/OOOOOORAN/OOOOOORAN)
-- 📝 Contact me: [Email](2422157324@qq.com) 
+- 📝 Contact me: [Email](linxinjie0705@gmail.com) 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OOOOOORAN&theme=github)
