@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👯 I am the author of [OOOOOORAN](https://github.com/OOOOOORAN/OOOOOORAN)
+- 👯 I am the author of [LXJ](https://github.com/OOOOOORAN/OOOOOORAN)
 - 📝 Contact me: [Email](linxinjie0705@gmail.com) 
 
 
