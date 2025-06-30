@@ -1,5 +1,5 @@
 ## Hi there 👋🏻 
-I'm Xinjie Lin, a master student and backend developer. Click [here](https://ooorz.site/) to visit my website.
+I'm Xinjie Lin, a master student and a backend developer. Click [here](https://ooorz.site/) to visit my website.
 - 🪪 [Huazhong University of Science and Technolody](https://cs.hust.edu.cn/) - M.S. in Computer Science
 - 🎓  [Northeast Forestry University](https://ccec.nefu.edu.cn/index.htm) - B.S. in Artificial Intelligence.
 - 🧸 Internship: I'm looking for a online/remote internship.
